@@ -50,11 +50,11 @@ Currently building **ASTRA Digital Factory** — an autonomous digital productio
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevGustavS&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=8B949E&icon_color=A78BFA&title_color=F0F6FC" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGustavS&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=8B949E&title_color=F0F6FC" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevGustavS&theme=github_dark" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevGustavS&theme=github_dark" alt="Top languages" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevGustavS&bg_color=0D1117&color=8B949E&line=A78BFA&point=F0F6FC&area=true&area_color=7C3AED&hide_border=true&custom_title=My%20Contributions" alt="Contribution graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGustavS&theme=github_dark" alt="GitHub profile details" />
 
 </div>

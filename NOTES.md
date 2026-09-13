@@ -1,9 +1,12 @@
-# Profile v3 notes
+# Profile v3 — fixed analytics
 
-This revision follows the reference profile more closely:
+The previous version used `github-readme-stats.vercel.app` for GitHub Stats/Top Languages
+and `github-readme-activity-graph.vercel.app` for Contributions.
 
-- Only the **About me** section contains prose inside the README.
-- Daily driver, tech stack and tools are icon-only.
-- Analytics is visual cards only.
-- Project descriptions should live in GitHub's native **Pinned** repositories section below the Profile README, matching the reference screenshot.
-- No duplicate avatar is rendered inside the README; GitHub already shows the profile picture in the left profile column.
+This revision replaces those three cards with `github-profile-summary-cards.vercel.app`:
+
+- Stats
+- Repositories per language
+- Profile details / contribution summary
+
+The visual layout remains the same.
