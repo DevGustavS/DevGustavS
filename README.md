@@ -40,99 +40,51 @@ Currently building **ASTRA Digital Factory** — a system for research, planning
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,astro,html,css,tailwind,docker,git,github,vscode,figma,linux,powershell,npm,vite&theme=dark&perline=9" alt="Languages and tools" />
 
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
+&nbsp;
+<img src="https://api.iconify.design/mdi:database.svg?color=%238B949E" width="46" height="46" alt="SQL" title="SQL" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="46" height="46" alt="Supabase" title="Supabase" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="46" height="46" alt="Firebase" title="Firebase" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/duckdb/FFF000" width="46" height="46" alt="DuckDB" title="DuckDB" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" width="46" height="46" alt="pandas" title="pandas" />
+&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="46" height="46" alt="ChatGPT" title="ChatGPT"></picture>
+&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="46" height="46" alt="Gemini" title="Gemini" />
+&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" width="46" height="46" alt="Grok" title="Grok"></picture>
+
+<br/><br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex.png" width="46" height="46" alt="Codex" title="Codex"></picture>
+&nbsp;
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claudecode-color.svg" width="46" height="46" alt="Claude Code" title="Claude Code" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/geminicli-color.svg" width="46" height="46" alt="Gemini CLI" title="Gemini CLI" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="46" height="46" alt="n8n" title="n8n" />
+&nbsp;
+<img src="https://api.iconify.design/mdi:api.svg?color=%238B949E" width="46" height="46" alt="APIs" title="APIs" />
+&nbsp;
+<img src="https://api.iconify.design/mdi:webhook.svg?color=%238B949E" width="46" height="46" alt="Webhooks" title="Webhooks" />
+&nbsp;
+<img src="https://api.iconify.design/mdi:graph-outline.svg?color=%238B949E" width="46" height="46" alt="AI Workflows" title="AI Workflows" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/google/4285F4" width="46" height="46" alt="Google Labs" title="Google Labs" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="46" height="46" alt="Canva" title="Canva" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="46" height="46" alt="Obsidian" title="Obsidian" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/notion/FFFFFF" width="46" height="46" alt="Notion" title="Notion" />
+
 </div>
-
----
-
-### Data & Databases
-
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="38" height="38" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="120"><img src="https://api.iconify.design/mdi:database.svg?color=%238B949E" width="38" height="38" alt="SQL"><br><sub><b>SQL</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="38" height="38" alt="Supabase"><br><sub><b>Supabase</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="38" height="38" alt="Firebase"><br><sub><b>Firebase</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/duckdb/FFF000" width="38" height="38" alt="DuckDB"><br><sub><b>DuckDB</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/pandas/150458" width="38" height="38" alt="pandas"><br><sub><b>pandas</b></sub></td>
-<td></td><td></td>
-</tr>
-</table>
-
----
-
-### AI & LLMs
-
-<table>
-<tr>
-<td align="center" width="120"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="38" height="38" alt="ChatGPT"></picture><br><sub><b>ChatGPT</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="38" height="38" alt="Gemini"><br><sub><b>Gemini</b></sub></td>
-<td align="center" width="120"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" width="38" height="38" alt="Grok"></picture><br><sub><b>Grok</b></sub></td>
-<td></td>
-</tr>
-</table>
-
----
-
-### AI Coding & Agents
-
-<table>
-<tr>
-<td align="center" width="120"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex.png" width="38" height="38" alt="Codex"></picture><br><sub><b>Codex</b></sub></td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claudecode-color.svg" width="38" height="38" alt="Claude Code"><br><sub><b>Claude Code</b></sub></td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/geminicli-color.svg" width="38" height="38" alt="Gemini CLI"><br><sub><b>Gemini CLI</b></sub></td>
-<td></td>
-</tr>
-</table>
-
----
-
-### Automation & Orchestration
-
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="38" height="38" alt="n8n"><br><sub><b>n8n</b></sub></td>
-<td align="center" width="120"><img src="https://api.iconify.design/mdi:api.svg?color=%238B949E" width="38" height="38" alt="APIs"><br><sub><b>APIs</b></sub></td>
-<td align="center" width="120"><img src="https://api.iconify.design/mdi:webhook.svg?color=%238B949E" width="38" height="38" alt="Webhooks"><br><sub><b>Webhooks</b></sub></td>
-<td align="center" width="120"><img src="https://api.iconify.design/mdi:graph-outline.svg?color=%238B949E" width="38" height="38" alt="AI Workflows"><br><sub><b>AI Workflows</b></sub></td>
-</tr>
-</table>
-
----
-
-### AI Experimentation
-
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/google/4285F4" width="38" height="38" alt="Google Labs"><br><sub><b>Google Labs</b></sub></td>
-<td></td><td></td><td></td>
-</tr>
-</table>
-
----
-
-### Design & Visual
-
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="38" height="38" alt="Figma"><br><sub><b>Figma</b></sub></td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="38" height="38" alt="Canva"><br><sub><b>Canva</b></sub></td>
-<td></td><td></td>
-</tr>
-</table>
-
----
-
-### Knowledge & Productivity
-
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="38" height="38" alt="Obsidian"><br><sub><b>Obsidian</b></sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/notion/FFFFFF" width="38" height="38" alt="Notion"><br><sub><b>Notion</b></sub></td>
-<td></td><td></td>
-</tr>
-</table>
 
 ---
 
