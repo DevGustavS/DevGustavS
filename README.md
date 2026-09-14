@@ -6,9 +6,8 @@
 
 ### About me
 
-I build **AI-native systems, automation and software products**, focused on turning ideas into practical, scalable and well-designed digital systems.
-
-Currently building **ASTRA Digital Factory** — a system for research, planning, execution, verification and shipping.
+**AI-native development · automation · software systems.**  
+Building **ASTRA Digital Factory** while deepening my foundations in Python, AI engineering, web systems and cybersecurity.
 
 ---
 
@@ -24,24 +23,27 @@ Currently building **ASTRA Digital Factory** — a system for research, planning
 
 ---
 
-### Tech Stack
+### Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,astro,tailwind,docker,git&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,astro,tailwind,docker,git&theme=dark" alt="Core stack" />
 
 </div>
 
 ---
 
-### Languages & Tools I Have Placed My Hands On
+### Tools & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,astro,html,css,tailwind,docker,git,github,vscode,figma,linux,powershell,npm,vite&theme=dark&perline=9" alt="Languages and tools" />
+<sub>development</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,html,css,linux,npm,vite,figma&theme=dark" alt="Development tools" />
 
 <br/><br/>
-
+<sub>data & backend</sub>
+<br/><br/>
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
 &nbsp;
 <img src="https://api.iconify.design/mdi:database.svg?color=%238B949E" width="46" height="46" alt="SQL" title="SQL" />
@@ -53,21 +55,25 @@ Currently building **ASTRA Digital Factory** — a system for research, planning
 <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="46" height="46" alt="DuckDB" title="DuckDB" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/pandas/150458" width="46" height="46" alt="pandas" title="pandas" />
-&nbsp;
+
+<br/><br/>
+<sub>ai & agents</sub>
+<br/><br/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="46" height="46" alt="ChatGPT" title="ChatGPT"></picture>
 &nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="46" height="46" alt="Gemini" title="Gemini" />
 &nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" width="46" height="46" alt="Grok" title="Grok"></picture>
-
-<br/><br/>
-
+&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex.png" width="46" height="46" alt="Codex" title="Codex"></picture>
 &nbsp;
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claudecode-color.svg" width="46" height="46" alt="Claude Code" title="Claude Code" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/geminicli-color.svg" width="46" height="46" alt="Gemini CLI" title="Gemini CLI" />
-&nbsp;
+
+<br/><br/>
+<sub>automation & knowledge</sub>
+<br/><br/>
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="46" height="46" alt="n8n" title="n8n" />
 &nbsp;
 <img src="https://api.iconify.design/mdi:api.svg?color=%238B949E" width="46" height="46" alt="APIs" title="APIs" />
@@ -92,7 +98,7 @@ Currently building **ASTRA Digital Factory** — a system for research, planning
 
 <div align="center">
 
-<img width="58%" src="https://streak-stats.demolab.com?user=DevGustavS&theme=dark&hide_border=false&background=0D1117&ring=8B949E&fire=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681&border=30363D" alt="GitHub streak" />
+<img width="58%" src="https://streak-stats.demolab.com?user=DevGustavS&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" alt="GitHub streak" />
 
 <br/><br/>
 
