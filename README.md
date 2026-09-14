@@ -15,9 +15,9 @@ Building **ASTRA Digital Factory** while deepening my foundations in Python, AI 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,vscode,github,powershell,docker&theme=dark" height="36" alt="Daily driver" />
+<img src="https://skillicons.dev/icons?i=windows,vscode,github,powershell,docker&theme=dark" height="42" alt="Daily driver" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="36" height="36" alt="Cursor" title="Cursor" />
+<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="42" height="42" alt="Cursor" title="Cursor" />
 
 <br/><br/>
 Windows · VS Code · GitHub · PowerShell · Docker · Cursor
@@ -30,7 +30,7 @@ Windows · VS Code · GitHub · PowerShell · Docker · Cursor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,astro,tailwind,docker,git&theme=dark" height="36" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,astro,tailwind,docker,git&theme=dark" height="42" alt="Core stack" />
 
 <br/><br/>
 Python · TypeScript · Node.js · React · Astro · Tailwind CSS · Docker · Git
@@ -44,62 +44,62 @@ Python · TypeScript · Node.js · React · Astro · Tailwind CSS · Docker · G
 <div align="center">
 
 <h4 align="center">development</h4>
-<img src="https://skillicons.dev/icons?i=js,html,css,linux,npm,vite,figma&theme=dark" height="36" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=js,html,css,linux,npm,vite,figma&theme=dark" height="42" alt="Development tools" />
 
 <br/><br/>
 JavaScript · HTML5 · CSS · Linux · npm · Vite · Figma
 
 <br/><br/>
 <h4 align="center">data & backend</h4>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="34" height="34" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
 &nbsp;
-<img src="https://api.iconify.design/mdi:database.svg?color=%238B949E" width="34" height="34" alt="SQL" title="SQL" />
+<img src="https://api.iconify.design/mdi:database.svg?color=%238B949E" width="40" height="40" alt="SQL" title="SQL" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="34" height="34" alt="Supabase" title="Supabase" />
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" height="40" alt="Supabase" title="Supabase" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="34" height="34" alt="Firebase" title="Firebase" />
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase" title="Firebase" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/duckdb/FFF000" width="34" height="34" alt="DuckDB" title="DuckDB" />
+<img src="https://cdn.simpleicons.org/duckdb/FFF000" width="40" height="40" alt="DuckDB" title="DuckDB" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="34" height="34" alt="pandas" title="pandas" />
+<img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="pandas" title="pandas" />
 
 <br/><br/>
 PostgreSQL · SQL · Supabase · Firebase · DuckDB · pandas
 
 <br/><br/>
 <h4 align="center">ai & agents</h4>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="34" height="34" alt="ChatGPT" title="ChatGPT"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="40" height="40" alt="ChatGPT" title="ChatGPT"></picture>
 &nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="34" height="34" alt="Gemini" title="Gemini" />
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini" title="Gemini" />
 &nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" width="34" height="34" alt="Grok" title="Grok"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" width="40" height="40" alt="Grok" title="Grok"></picture>
 &nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex.png" width="34" height="34" alt="Codex" title="Codex"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex.png" width="40" height="40" alt="Codex" title="Codex"></picture>
 &nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claudecode-color.svg" width="34" height="34" alt="Claude Code" title="Claude Code" />
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claudecode-color.svg" width="40" height="40" alt="Claude Code" title="Claude Code" />
 &nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/geminicli-color.svg" width="34" height="34" alt="Gemini CLI" title="Gemini CLI" />
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/geminicli-color.svg" width="40" height="40" alt="Gemini CLI" title="Gemini CLI" />
 
 <br/><br/>
 ChatGPT · Gemini · Grok · Codex · Claude Code · Gemini CLI
 
 <br/><br/>
 <h4 align="center">automation & knowledge</h4>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="34" height="34" alt="n8n" title="n8n" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" title="n8n" />
 &nbsp;
-<img src="https://api.iconify.design/mdi:api.svg?color=%238B949E" width="34" height="34" alt="APIs" title="APIs" />
+<img src="https://api.iconify.design/mdi:api.svg?color=%238B949E" width="40" height="40" alt="APIs" title="APIs" />
 &nbsp;
-<img src="https://api.iconify.design/mdi:webhook.svg?color=%238B949E" width="34" height="34" alt="Webhooks" title="Webhooks" />
+<img src="https://api.iconify.design/mdi:webhook.svg?color=%238B949E" width="40" height="40" alt="Webhooks" title="Webhooks" />
 &nbsp;
-<img src="https://api.iconify.design/mdi:graph-outline.svg?color=%238B949E" width="34" height="34" alt="AI Workflows" title="AI Workflows" />
+<img src="https://api.iconify.design/mdi:graph-outline.svg?color=%238B949E" width="40" height="40" alt="AI Workflows" title="AI Workflows" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/google/4285F4" width="34" height="34" alt="Google Labs" title="Google Labs" />
+<img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Google Labs" title="Google Labs" />
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="34" height="34" alt="Canva" title="Canva" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" height="40" alt="Canva" title="Canva" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="34" height="34" alt="Obsidian" title="Obsidian" />
+<img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="40" height="40" alt="Obsidian" title="Obsidian" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/notion/FFFFFF" width="34" height="34" alt="Notion" title="Notion" />
+<img src="https://cdn.simpleicons.org/notion/FFFFFF" width="40" height="40" alt="Notion" title="Notion" />
 
 <br/><br/>
 n8n · APIs · Webhooks · AI Workflows · Google Labs · Canva · Obsidian · Notion
