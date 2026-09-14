@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="ASTRA OPERATOR active toolchain">
+  <rect width="1200" height="270" rx="12" fill="#060607"/>
+  <rect x="0.5" y="0.5" width="1199" height="269" rx="11.5" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
+  <path d="M36 65H1164" stroke="#ffffff" stroke-opacity="0.06"/>
+  <path d="M36 65H188" stroke="#9b7cff" stroke-opacity="0.8" stroke-width="2"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
+    <text x="38" y="42" fill="#9b7cff" font-size="12" letter-spacing="2.7">SYSTEM MODULES // ACTIVE TOOLCHAIN</text>
+    <text x="1162" y="42" text-anchor="end" fill="#4d4d56" font-size="9" letter-spacing="1.5">10 MODULES / READY</text>
+
+    <g transform="translate(38 88)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#9b7cff" fill-opacity="0.10" stroke="#9b7cff" stroke-opacity="0.28"/>
+      <text x="29" y="35" text-anchor="middle" fill="#b9a7ff" font-size="10" font-weight="700">PY</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">PYTHON</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">PRIMARY / 01</text>
+    </g>
+    <g transform="translate(265 88)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">TS</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">TYPESCRIPT</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">CORE / 02</text>
+    </g>
+    <g transform="translate(492 88)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">ND</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">NODE.JS</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">RUNTIME / 03</text>
+    </g>
+    <g transform="translate(719 88)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">RX</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">REACT</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">UI / 04</text>
+    </g>
+    <g transform="translate(946 88)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">AS</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">ASTRO</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">WEB / 05</text>
+    </g>
+
+    <g transform="translate(38 165)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">TW</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">TAILWIND</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">STYLE / 06</text>
+    </g>
+    <g transform="translate(265 165)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">DK</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">DOCKER</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">ENV / 07</text>
+    </g>
+    <g transform="translate(492 165)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">GT</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">GIT / GITHUB</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">SOURCE / 08</text>
+    </g>
+    <g transform="translate(719 165)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.10"/>
+      <text x="29" y="35" text-anchor="middle" fill="#c9c9cf" font-size="10" font-weight="700">VS</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">VS CODE</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">CONTROL / 09</text>
+    </g>
+    <g transform="translate(946 165)">
+      <rect width="214" height="62" rx="5" fill="#0a0a0d" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="12" y="13" width="34" height="34" rx="4" fill="#9b7cff" fill-opacity="0.08" stroke="#9b7cff" stroke-opacity="0.20"/>
+      <text x="29" y="35" text-anchor="middle" fill="#b9a7ff" font-size="10" font-weight="700">PS</text><text x="60" y="29" fill="#e7e7ea" font-size="12" font-weight="700">POWERSHELL</text><text x="60" y="45" fill="#55555f" font-size="8" letter-spacing="1">SHELL / 10</text>
+    </g>
+
+    <text x="1160" y="253" text-anchor="end" fill="#3f3f47" font-size="8" letter-spacing="1.4">ASTRA // OPERATOR TOOLCHAIN</text>
+  </g>
+</svg>
