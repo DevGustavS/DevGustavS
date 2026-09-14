@@ -2,23 +2,37 @@
 
 <img src="./assets/astra-header.svg" width="100%" alt="ASTRA // OPERATOR" />
 
-</div>
-
-### `// ABOUT`
-
-I build **AI-native systems, automation and software products**, focused on turning ideas into practical, production-ready systems.
-
-Currently building **ASTRA Digital Factory** — an autonomous digital production system for research, planning, execution, verification and shipping.
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="./assets/operator-dossier.svg" width="100%" alt="ASTRA OPERATOR dossier" />
 
 <br/><br/>
 
-<img src="./assets/operator-stack.svg" width="100%" alt="ASTRA OPERATOR active toolchain" />
+<img src="./assets/operator-daily-driver.svg" width="100%" alt="ASTRA OPERATOR daily driver panel" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=windows,vscode,github,powershell,docker&theme=dark" alt="Daily driver icons" />
+
+<br/><br/>
+
+<img src="./assets/operator-tech-stack.svg" width="100%" alt="ASTRA OPERATOR tech stack panel" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,astro,tailwind,docker,git&theme=dark" alt="Tech stack icons" />
+
+<br/><br/>
+
+<img src="./assets/operator-toolkit.svg" width="100%" alt="ASTRA OPERATOR toolkit panel" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,astro,html,css,tailwind,docker,git,github,vscode,figma,linux,powershell,npm,vite&theme=dark&perline=9" alt="Extended toolkit icons" />
+
+<br/><br/>
+
+<img src="./assets/operator-telemetry.svg" width="100%" alt="ASTRA OPERATOR telemetry panel" />
 
 <br/><br/>
 
@@ -35,6 +49,6 @@ Currently building **ASTRA Digital Factory** — an autonomous digital productio
 
 <br/><br/>
 
-<sub><code>ASTRA // OPERATOR</code> &nbsp; BUILD SYSTEMS · VERIFY OUTPUT · SHIP RESULTS</sub>
+<sub><code>ASTRA // OPERATOR</code> &nbsp; KEEP THE SIGNAL CLEAN · BUILD SYSTEMS · VERIFY OUTPUT · SHIP RESULTS</sub>
 
 </div>
