@@ -19,6 +19,9 @@ Building **ASTRA Digital Factory** while deepening my foundations in Python, AI 
 &nbsp;
 <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" title="Cursor" />
 
+<br/><br/>
+Windows · VS Code · GitHub · PowerShell · Docker · Cursor
+
 </div>
 
 ---
@@ -28,6 +31,9 @@ Building **ASTRA Digital Factory** while deepening my foundations in Python, AI 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,astro,tailwind,docker,git&theme=dark" alt="Core stack" />
+
+<br/><br/>
+Python · TypeScript · Node.js · React · Astro · Tailwind CSS · Docker · Git
 
 </div>
 
@@ -40,6 +46,9 @@ Building **ASTRA Digital Factory** while deepening my foundations in Python, AI 
 <sub>development</sub>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=js,html,css,linux,npm,vite,figma&theme=dark" alt="Development tools" />
+
+<br/><br/>
+JavaScript · HTML5 · CSS · Linux · npm · Vite · Figma
 
 <br/><br/>
 <sub>data & backend</sub>
@@ -57,6 +66,9 @@ Building **ASTRA Digital Factory** while deepening my foundations in Python, AI 
 <img src="https://cdn.simpleicons.org/pandas/150458" width="46" height="46" alt="pandas" title="pandas" />
 
 <br/><br/>
+PostgreSQL · SQL · Supabase · Firebase · DuckDB · pandas
+
+<br/><br/>
 <sub>ai & agents</sub>
 <br/><br/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="46" height="46" alt="ChatGPT" title="ChatGPT"></picture>
@@ -70,6 +82,9 @@ Building **ASTRA Digital Factory** while deepening my foundations in Python, AI 
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claudecode-color.svg" width="46" height="46" alt="Claude Code" title="Claude Code" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/geminicli-color.svg" width="46" height="46" alt="Gemini CLI" title="Gemini CLI" />
+
+<br/><br/>
+ChatGPT · Gemini · Grok · Codex · Claude Code · Gemini CLI
 
 <br/><br/>
 <sub>automation & knowledge</sub>
@@ -89,6 +104,9 @@ Building **ASTRA Digital Factory** while deepening my foundations in Python, AI 
 <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="46" height="46" alt="Obsidian" title="Obsidian" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="46" height="46" alt="Notion" title="Notion" />
+
+<br/><br/>
+n8n · APIs · Webhooks · AI Workflows · Google Labs · Canva · Obsidian · Notion
 
 </div>
 
