@@ -15,23 +15,23 @@ Busco oportunidades em tecnologia para contribuir, aprender e evoluir com uma eq
 
 ---
 
-### About me
+### Sobre mim
 
-Tenho interesse em entender como as peças de um sistema se conectam: da interface e das APIs até o processamento de dados, testes e automações.
+Sou o Gustavo e estou começando minha carreira na área de tecnologia. Gosto de desenvolver aplicações, trabalhar com dados e encontrar formas de automatizar tarefas. O que mais me interessa é entender como cada parte de um sistema funciona e como elas se conectam.
 
-Aprendo construindo projetos, examinando resultados e corrigindo o que não funciona. Procuro escrever código compreensível, documentar decisões e usar ferramentas de IA com revisão humana, sem deixar de lado os fundamentos de desenvolvimento.
+Tenho aprendido principalmente colocando as ideias em prática. Já desenvolvi aplicações web, integrações e um pipeline para tratar e analisar mais de 115 mil registros de vendas. Cada projeto acaba trazendo problemas novos, e é justamente tentando resolvê-los que evoluo.
 
-Um exemplo é o **Automated Sales Pipeline**: um projeto em Python e SQL com **115.879 registros de referência, 20 regras de qualidade e 146 testes automatizados documentados**, além de dashboard e rastreabilidade dos dados.
+Também utilizo ferramentas de IA no desenvolvimento, mas procuro entender o código, testar as soluções e conferir os resultados por conta própria.
 
 ---
 
-### How I work
+### Como eu trabalho
 
-Prefiro avançar em etapas pequenas e verificáveis: entender o problema, implementar uma parte funcional, testar, observar os resultados e melhorar a solução.
+Gosto de começar entendendo o problema e o que realmente precisa funcionar. Depois, divido o trabalho em partes menores, implemento, testo e ajusto conforme encontro dificuldades.
 
-**Planejar → Desenvolver → Testar → Validar → Documentar → Evoluir**
+Nem sempre a primeira solução é a melhor. Quando algo não funciona, tento descobrir a causa antes de mudar tudo. Uso Git, testes e documentação para acompanhar as mudanças e facilitar a continuidade dos projetos.
 
-Valorizo simplicidade, clareza, rastreabilidade e decisões técnicas proporcionais ao problema. Automação e agentes de IA fazem mais sentido para mim quando ajudam a executar um processo que pode ser compreendido e validado.
+Na automação, sigo a mesma ideia: entender o processo primeiro e só depois pensar nas ferramentas. Prefiro uma solução simples que funcione bem a uma estrutura complexa sem necessidade.
 
 ---
 
@@ -129,11 +129,11 @@ n8n · APIs REST · Webhooks · Workflows · Canva · Obsidian · Notion
 
 ---
 
-### Direction
+### Onde quero chegar
 
-Quero continuar fortalecendo minha base em **desenvolvimento de software, dados e engenharia de sistemas**, enquanto aprofundo conhecimentos em automação e IA aplicada.
+Quero ganhar experiência trabalhando com outras pessoas e participando de projetos de tecnologia no dia a dia. Tenho interesse em desenvolvimento de software, dados e automação, e estou aberto a oportunidades em que possa contribuir com o que já sei e continuar aprendendo.
 
-O objetivo é construir soluções úteis, testáveis e que possam evoluir com segurança — sem adicionar complexidade antes de precisar dela.
+Ao mesmo tempo, quero aprofundar meus conhecimentos em arquitetura de sistemas e IA aplicada. Meu objetivo é construir uma base técnica sólida e, aos poucos, assumir desafios maiores.
 
 ---
 
