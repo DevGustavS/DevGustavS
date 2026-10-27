@@ -15,23 +15,13 @@ Busco oportunidades em tecnologia para contribuir, aprender e evoluir com uma eq
 
 ---
 
-### Sobre mim
-
-Sou o Gustavo e estou começando minha carreira na área de tecnologia. Gosto de desenvolver aplicações, trabalhar com dados e encontrar formas de automatizar tarefas. O que mais me interessa é entender como cada parte de um sistema funciona e como elas se conectam.
-
-Tenho aprendido principalmente colocando as ideias em prática. Já desenvolvi aplicações web, integrações e um pipeline para tratar e analisar mais de 115 mil registros de vendas. Cada projeto acaba trazendo problemas novos, e é justamente tentando resolvê-los que evoluo.
-
-Também utilizo ferramentas de IA no desenvolvimento, mas procuro entender o código, testar as soluções e conferir os resultados por conta própria.
-
----
-
 ### Como eu trabalho
 
-Gosto de começar entendendo o problema e o que realmente precisa funcionar. Depois, divido o trabalho em partes menores, implemento, testo e ajusto conforme encontro dificuldades.
+Prefiro entender o problema antes de escolher as ferramentas. Costumo dividir o desenvolvimento em etapas pequenas, testar o que fiz e ajustar com base no resultado.
 
-Nem sempre a primeira solução é a melhor. Quando algo não funciona, tento descobrir a causa antes de mudar tudo. Uso Git, testes e documentação para acompanhar as mudanças e facilitar a continuidade dos projetos.
+Gosto de manter o código e a organização dos projetos simples de acompanhar. Uso Git, testes e documentação quando fazem diferença para identificar erros, registrar decisões e continuar o trabalho sem perder o contexto.
 
-Na automação, sigo a mesma ideia: entender o processo primeiro e só depois pensar nas ferramentas. Prefiro uma solução simples que funcione bem a uma estrutura complexa sem necessidade.
+Com automações e IA, sigo a mesma lógica: experimentar, conferir o comportamento e manter o controle sobre o resultado. Não vejo vantagem em complicar uma solução que já funciona bem.
 
 ---
 
@@ -126,14 +116,6 @@ ChatGPT · Codex · Claude Code · Gemini · Gemini CLI · Grok · agentes de IA
 n8n · APIs REST · Webhooks · Workflows · Canva · Obsidian · Notion
 
 </div>
-
----
-
-### Onde quero chegar
-
-Quero ganhar experiência trabalhando com outras pessoas e participando de projetos de tecnologia no dia a dia. Tenho interesse em desenvolvimento de software, dados e automação, e estou aberto a oportunidades em que possa contribuir com o que já sei e continuar aprendendo.
-
-Ao mesmo tempo, quero aprofundar meus conhecimentos em arquitetura de sistemas e IA aplicada. Meu objetivo é construir uma base técnica sólida e, aos poucos, assumir desafios maiores.
 
 ---
 
