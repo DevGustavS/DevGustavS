@@ -1,126 +1,100 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="DevGustavS profile banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Gustavo Lima da Costa — Desenvolvimento de Software, Dados, Automação e IA" />
 
-</div>
+# Olá, eu sou o Gustavo! 👋
 
-### About me
+**Desenvolvimento de Software · Dados · Automação · IA Aplicada**
 
-**AI-native development · automation · software systems.**  
-Building **ASTRA Digital Factory** while deepening my foundations in Python, AI engineering, web systems and cybersecurity.
+Desenvolvedor em início de carreira, criando soluções práticas com código, bancos de dados e integrações.  
+Busco oportunidades em tecnologia para contribuir, aprender e evoluir com uma equipe.
 
----
-
-### My daily driver
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,vscode,github,powershell,docker&theme=dark" height="42" alt="Daily driver" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="42" height="42" alt="Cursor" title="Cursor" />
-
-<br/><br/>
-Windows · VS Code · GitHub · PowerShell · Docker · Cursor
+<a href="https://www.linkedin.com/in/gustavocosta1100"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:gustavolc.126@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contato-30363D?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/DevGustavS?tab=repositories"><img alt="Repositórios" src="https://img.shields.io/badge/GitHub-Ver%20projetos-238636?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
 ---
 
-### Core Stack
+## O que eu desenvolvo
+
+| 💻 Software e aplicações | 🔗 Automação e integrações |
+| :--- | :--- |
+| Aplicações web e desktop; interfaces responsivas; APIs REST; testes e versionamento. | Fluxos com n8n, webhooks, serviços Docker e integração entre sistemas. |
+| 📊 **Dados e analytics** | 🤖 **IA aplicada** |
+| Pipelines em Python/SQL, validação de dados, bancos relacionais e dashboards. | Agentes e ferramentas de IA como apoio ao desenvolvimento, com revisão e validação humana. |
+
+## Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,astro,tailwind,docker,git&theme=dark" height="42" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,postgres,docker,git,github&theme=dark" alt="Python, TypeScript, JavaScript, React, Node.js, PostgreSQL, Docker, Git e GitHub" />
 
-<br/><br/>
-Python · TypeScript · Node.js · React · Astro · Tailwind CSS · Docker · Git
+**Backend e dados:** Python · SQL · Fastify · PostgreSQL · Oracle · DuckDB · Pandas · Parquet · SQLite  
+**Frontend e desktop:** React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Electron  
+**Automação e qualidade:** n8n · APIs REST · Webhooks · Docker · Pytest · Ruff · testes automatizados  
+**Ambiente e IA:** VS Code · PowerShell · Git/GitHub · OpenAI Codex · Claude Code
+
+</div>
+
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/DevGustavS/automated-sales-pipeline">📊 Automated Sales Pipeline</a></h3>
+<p><strong>Repositório público · Python / Pandas / DuckDB / SQL</strong></p>
+<p>Pipeline reproduzível de ingestão, validação, tratamento e análise de dados comerciais, com rastreabilidade e dashboard em Streamlit.</p>
+<p>✅ <strong>115.879 registros</strong> de referência<br>✅ <strong>20 regras</strong> de qualidade de dados<br>✅ <strong>146 testes</strong> automatizados documentados</p>
+<p><a href="https://github.com/DevGustavS/automated-sales-pipeline">Explorar código e documentação</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🛒 Caixa da Loja</h3>
+<p><strong>Projeto privado · Electron / React / SQLite</strong></p>
+<p>Aplicativo desktop para Windows com operações offline de vendas e estoque, cadastro de usuários, leitor USB e etiquetas de código de barras.</p>
+<p>✅ Aplicação empacotada para Windows<br>✅ Testes e documentação de operação<br>✅ Controle de estoque e vendas</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧩 Sociedade Ecosystem</h3>
+<p><strong>Projeto privado · React / TypeScript / Fastify / PostgreSQL</strong></p>
+<p>Plataforma local com gestão de projetos e tarefas, API REST, persistência, autenticação e fluxos de aprovação e execução.</p>
+<p>✅ Interface e API integradas<br>✅ Filas, regras de negócio e testes<br>✅ Estrutura modular de aplicações</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚙️ Astra Digital Factory</h3>
+<p><strong>Projeto privado · Web / automação / agentes de IA</strong></p>
+<p>Estrutura de produção de websites a partir de referências visuais, com processos de revisão, validação responsiva, controle de versões e aceite humano.</p>
+<p>✅ Fluxos de trabalho documentados<br>✅ Critérios de qualidade visual<br>✅ Automação com supervisão humana</p>
+</td>
+</tr>
+</table>
+
+<sub>Projetos identificados como privados não têm código-fonte aberto para visitantes. As descrições resumem funcionalidades documentadas; não representam serviços implantados em produção quando essa validação não foi realizada.</sub>
+
+## Minha forma de trabalhar
+
+`Planejar` → `Construir` → `Testar` → `Validar` → `Documentar` → `Evoluir`
+
+Tenho foco em soluções que possam ser executadas, verificadas e mantidas. Procuro registrar decisões técnicas, testar comportamentos e usar IA como ferramenta de apoio — não como substituta da validação.
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevGustavS&theme=github_dark" height="170" alt="Estatísticas dinâmicas do GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevGustavS&theme=github_dark" height="170" alt="Linguagens dos repositórios públicos" />
 
 </div>
 
 ---
 
-### Tools & Technologies
-
 <div align="center">
 
-<h4 align="center">development</h4>
-<img src="https://skillicons.dev/icons?i=js,html,css,linux,npm,vite,figma&theme=dark" height="42" alt="Development tools" />
+**Aberto a oportunidades de entrada em desenvolvimento de software, dados, automação e tecnologia.**
 
-<br/><br/>
-JavaScript · HTML5 · CSS · Linux · npm · Vite · Figma
-
-<br/><br/>
-<h4 align="center">data & backend</h4>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
-&nbsp;
-<img src="https://api.iconify.design/mdi:database.svg?color=%238B949E" width="40" height="40" alt="SQL" title="SQL" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" height="40" alt="Supabase" title="Supabase" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase" title="Firebase" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/duckdb/FFF000" width="40" height="40" alt="DuckDB" title="DuckDB" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="pandas" title="pandas" />
-
-<br/><br/>
-PostgreSQL · SQL · Supabase · Firebase · DuckDB · pandas
-
-<br/><br/>
-<h4 align="center">ai & agents</h4>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="40" height="40" alt="ChatGPT" title="ChatGPT"></picture>
-&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini" title="Gemini" />
-&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" width="40" height="40" alt="Grok" title="Grok"></picture>
-&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex.png"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex.png" width="40" height="40" alt="Codex" title="Codex"></picture>
-&nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claudecode-color.svg" width="40" height="40" alt="Claude Code" title="Claude Code" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/geminicli-color.svg" width="40" height="40" alt="Gemini CLI" title="Gemini CLI" />
-
-<br/><br/>
-ChatGPT · Gemini · Grok · Codex · Claude Code · Gemini CLI
-
-<br/><br/>
-<h4 align="center">automation & knowledge</h4>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" title="n8n" />
-&nbsp;
-<img src="https://api.iconify.design/mdi:api.svg?color=%238B949E" width="40" height="40" alt="APIs" title="APIs" />
-&nbsp;
-<img src="https://api.iconify.design/mdi:webhook.svg?color=%238B949E" width="40" height="40" alt="Webhooks" title="Webhooks" />
-&nbsp;
-<img src="https://api.iconify.design/mdi:graph-outline.svg?color=%238B949E" width="40" height="40" alt="AI Workflows" title="AI Workflows" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Google Labs" title="Google Labs" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" height="40" alt="Canva" title="Canva" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="40" height="40" alt="Obsidian" title="Obsidian" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/notion/FFFFFF" width="40" height="40" alt="Notion" title="Notion" />
-
-<br/><br/>
-n8n · APIs · Webhooks · AI Workflows · Google Labs · Canva · Obsidian · Notion
-
-</div>
-
----
-
-### Analytics
-
-<div align="center">
-
-<img width="58%" src="https://streak-stats.demolab.com?user=DevGustavS&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevGustavS&theme=github_dark" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevGustavS&theme=github_dark" alt="Top languages" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGustavS&theme=github_dark" alt="GitHub profile details" />
+[LinkedIn](https://www.linkedin.com/in/gustavocosta1100) · [E-mail](mailto:gustavolc.126@gmail.com) · [Repositórios](https://github.com/DevGustavS?tab=repositories)
 
 </div>
