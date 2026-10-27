@@ -10,7 +10,6 @@ Desenvolvedor em início de carreira, criando soluções práticas com código, 
 Busco oportunidades em tecnologia para contribuir, aprender e evoluir com uma equipe.
 
 <a href="mailto:gustavolc.126@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-Contato-30363D?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/DevGustavS?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ver%20projetos-238636?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
